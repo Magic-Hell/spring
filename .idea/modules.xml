@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/SPringInitiallizr/SPring_Initiallizr/SPring_Initiallizr.iml" filepath="$PROJECT_DIR$/springboot_parent/SPringInitiallizr/SPring_Initiallizr/SPring_Initiallizr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/configuration_file/configuration_file.iml" filepath="$PROJECT_DIR$/springboot_parent/configuration_file/configuration_file.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot_parent.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/springhelloworld/springhelloworld.iml" filepath="$PROJECT_DIR$/springhelloworld/springhelloworld.iml" />
     </modules>
   </component>
